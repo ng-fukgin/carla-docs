@@ -1,5 +1,3 @@
-**Actors**
-
 Actors and blueprints
 =====================
 
