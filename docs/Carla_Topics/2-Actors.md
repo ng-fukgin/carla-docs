@@ -1,10 +1,4 @@
-Actors
-
-GuardStrike
-
-2022.05.05 11:20发布于[CARLA帮助资源](/document/34876387b64845899a948fbf8c2a73be)
-
-390
+**Actors**
 
 Actors and blueprints
 =====================
