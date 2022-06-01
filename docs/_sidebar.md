@@ -7,8 +7,8 @@
    
     
 * Getting started
-    * [Introduction](/GETTINGSTARTED/1Introduction.md)
-    * [快速安装](/GETTINGSTARTED/2快速安装.md)
+    * [Introduction](/GETTING_STARTED/1Introduction.md)
+    * [快速安装](/GETTING_STARTED/2快速安装.md)
 
 * 操作系统
     * [内存管理](/操作系统/内存管理.md)
