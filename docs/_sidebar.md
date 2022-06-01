@@ -9,11 +9,13 @@
     * [Introduction](/GETTING_STARTED/1Introduction.md)
     * [快速安装](/GETTING_STARTED/2快速安装.md)
 
-* 操作系统
-    * [内存管理](/操作系统/内存管理.md)
-    * [文件管理](/操作系统/文件管理.md)
-    * [磁盘](/操作系统/磁盘.md)
-    * [设备管理](/操作系统/设备管理.md)
+* BUILDING CARLA
+    * [Linux系统下构建CARLA](/BUILDING_CARLA/1Linux_build.md)
+    * [在Windows环境下构建Carla](/BUILDING_CARLA/2Windows_build.md)
+    * [更新CARLA](/BUILDING_CARLA/3Update_CARLA.md)
+    * [系统构建](/BUILDING_CARLA/4Build_system.md)
+    * [Docker中的CARLA](/BUILDING_CARLA/5CARLA_in_Docker.md)
+
 
 * 数据结构
     * [查找算法](/数据结构/查找.md)
