@@ -1,13 +1,13 @@
 ![logo](https://docsify.js.org/_media/icon.svg)
 
-# XiaoJ's 学习笔记
+# carla 学习笔记
 
-> 记录个人所学、所悟、所感 :feet:
+> 记录carla的操作过程 :feet:
 
-* 计算机网络、数据结构、操作系统
-* Java、LeetCode、机器学习   
+* 强化学习
+* 无人驾驶
 - and so on  :heartpulse:
 
 
-[GitHub](https://github.com/XiaoJing-C/Learning-records.git)
+[GitHub](https://github.com/ng-fukgin/carla_docs.git)
 [Get Started](README.md)

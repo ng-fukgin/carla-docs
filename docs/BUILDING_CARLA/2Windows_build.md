@@ -1,10 +1,3 @@
-在Windows环境下构建Carla
-
-GuardStrike
-
-2022.02.28 15:54发布于[CARLA帮助资源](/document/34876387b64845899a948fbf8c2a73be)
-
-1081
 
 在Windows环境下构建Carla
 ==================
@@ -257,6 +250,6 @@ Description
 
 `make clean` 和 `make launch` 都在一个命令中.
 
-如果您有任何有关于Carla的问题，请积极在论坛中发帖或文章!
+
 
 
