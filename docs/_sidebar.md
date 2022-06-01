@@ -3,12 +3,12 @@
 
 * home
     * home
-    * Getting started(/home/欢迎来到CARLA官方文档.md)
+    * [Getting started](/home/欢迎来到CARLA官方文档.md)
    
     
 * Getting started
-    * [Introduction](/GETTING STARTED/1Introduction.md)
-    * [快速安装](/GETTING STARTED/2快速安装.md)
+    * [Introduction](/GETTINGSTARTED/1Introduction.md)
+    * [快速安装](/GETTINGSTARTED/2快速安装.md)
 
 * 操作系统
     * [内存管理](/操作系统/内存管理.md)
