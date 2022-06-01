@@ -2,7 +2,6 @@
     * [简介](README.md)
 
 * home
-    * home
     * [Getting started](/home/欢迎来到CARLA官方文档.md)
    
     
