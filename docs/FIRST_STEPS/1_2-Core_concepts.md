@@ -67,7 +67,7 @@ D - 向右移动
 
 在观众窗口中左键单击并拖动鼠标上下控制俯仰，左右拖动控制偏航。
 
-![flying_spectator](https://carla.readthedocs.io/en/latest/img/tuto_G_getting_started/flying_spectator.gif)
+![flying_spectator](/img/flying_spectator.gif)
 
 可以通过 Python API 访问和操作观众及其属性：
 

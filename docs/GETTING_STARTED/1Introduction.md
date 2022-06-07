@@ -2,7 +2,7 @@
 CARLA
 =====
 
-![Welcome to CARLA](https://carla.readthedocs.io/en/latest/img/welcome.png)
+![Welcome to CARLA](/img/welcome.png)
 
 CARLA 是一个开源的自动驾驶模拟器。 它是从底层开始构建的，用作模块化和灵活的 API，以解决涉及自动驾驶问题的一系列任务。 CARLA 的主要目标之一是帮助实现自动驾驶研发的简易化，成为用户可以轻松访问和定制的工具。 为此，模拟器必须满足一般驾驶问题中不同用例的要求（例如学习驾驶策略、训练感知算法等）。 CARLA 基于虚幻引擎运行模拟，并使用 OpenDRIVE 标准（目前为 1.4）来定义道路和城市环境。 通过使用 Python 和 C++ 处理的 API 授予对模拟的控制权，该 API 会随着项目的不断发展而不断增长。
 
@@ -13,7 +13,7 @@ The simulator
 
 CARLA 模拟器由一个可扩展的客户端-服务器架构组成。 服务器负责与模拟本身相关的所有事情：传感器渲染、物理计算、世界状态及其参与者的更新等等。 由于它旨在获得真实的结果，因此最适合使用专用 GPU 运行服务器，尤其是在处理机器学习时。 客户端由一组客户端模块组成，这些模块控制场景中演员的逻辑并设置世界条件。 这是通过利用 CARLA API（在 Python 或 C++ 中）实现的，这是一个在服务器和客户端之间进行调解的层，它不断发展以提供新的功能。
 
-![CARLA Modules](https://carla.readthedocs.io/en/latest/img/carla_modules.png)
+![CARLA Modules](/img/carla_modules.png)
 
 这总结了模拟器的基本结构。 了解 CARLA 远不止于此，因为其中存在许多不同的功能和元素。 下面列出了其中一些，以便于大家了解 CARLA 可以实现的功能。
 

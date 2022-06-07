@@ -7,7 +7,7 @@
 
 目标是能够从单独的 Python 进程调用虚幻引擎的函数。
 
-![modules](https://carla.readthedocs.io/en/latest/img/build_modules.jpg)
+![modules](/img/build_modules.jpg)
 
 在 Linux 中，我们使用 clang-8.0 和 C++14 标准编译 CARLA 和所有依赖项。 然而，我们根据代码的使用位置来链接不同的运行时 C++ 库，因为所有要与虚幻引擎链接的代码都需要使用 libc++ 进行编译。
 
