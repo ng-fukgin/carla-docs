@@ -184,7 +184,7 @@ CARLA 提供了许多关于渲染质量和效率的选项。 在最基本的层�
 
 ./CarlaUE4.sh -quality-level=Epic
 
-![Epic mode screenshot](https://carla.readthedocs.io/en/latest/img/rendering_quality_epic.jpg)
+![Epic mode screenshot](/img/rendering_quality_epic.jpg)
 
 _Epic mode屏幕截图_
 
@@ -192,7 +192,7 @@ _Epic mode屏幕截图_
 
 ./CarlaUE4.sh -quality-level=Low
 
-_![Low mode screenshot](https://carla.readthedocs.io/en/latest/img/rendering_quality_low.jpg)_
+_![Low mode screenshot](/img/rendering_quality_low.jpg)_
 
 _Low mode屏幕截图_
 
