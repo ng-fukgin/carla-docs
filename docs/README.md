@@ -10,3 +10,6 @@
 
 如果你在文档中发现有错，请及时联系我。:heartpulse:
 
+邮箱：ngfukgin@gmail.com :heartpulse:
+
+原创不易，请大家尽量访问原网站获取内容，感谢你的理解与支持 :heartpulse:
