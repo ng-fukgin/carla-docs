@@ -2,9 +2,8 @@
 
 快切回去！！！！！！！！！！！
 
-<button type="button" onclick="alert(randomText())" onclick="window.location.href = 'https://www.baidu.com/'">别骂了别骂了</button>
 <button type="button" onclick="alert(randomText())">别骂了别骂了</button>
-<button type="button" onclick="alert(randomText())">这就切回去</button>
+<button onclick="window.location.href = '/carla-docs/#/README'">这就切回去</button>
 <button type="button" onclick="alert(randomText())">圣人也有犯错的时候，名人也有失德的地方，我也有耍脾气的时候，有错能改，善莫大焉，所以给我一个改过自新的机会吧！</button>
 <button type="button" onclick="alert(randomText())">圣人也有犯错的时候，名人也有失德的地方，我也有耍脾气的时候，有错能改，善莫大焉，所以给我一个改过自新的机会吧！</button>
 <button type="button" onclick="alert(randomText())">说出的话，泼出的水，收不回。做错的事，不应该，挺后悔。道歉的话，心里有，说不出口。我真的不是存心故意，你可千万别生气。请接受我深深的歉意：I am sorry。</button>
