@@ -2,7 +2,7 @@
 
 快切回去！！！！！！！！！！！
 
-
+<button type="button" onclick="alert(randomText())">点我!</button>
 <button type="button" onclick="alert(randomText())">点我!</button>
 
 <button onclick="window.location.href = '/carla-docs/#/README'">别骂了别骂了</button>
