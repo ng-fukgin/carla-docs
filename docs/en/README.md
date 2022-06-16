@@ -2,5 +2,5 @@
 
 快切回去！！！！！！！！！！！
 
-<a target="_blank" href="/README" class="w3-btn w3-margin-bottom">→运行示例 »</a>
-<a class="w3-left w3-btn" href="/README"><span class="w3-hide-small"> →运行示例</span></a>
+<button onclick="window.location.href = '/carla-docs/#/README'">别骂了别骂了</button>
+<button onclick="window.location.href = '/carla-docs/#/README'">这就切回去</button>
