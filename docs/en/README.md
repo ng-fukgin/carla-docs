@@ -1,17 +1,7 @@
 # 我不允许你看英文文档
 
 快切回去！！！！！！！！！！！
-<script>
-function randomText()
-{
-let data = ["你做梦!",'我不!','泥奏凯','道歉有用的话要警察干嘛!','哼!',"不行..",'我拒绝!',"好喽",'O','en']
-var _str = data[Math.floor(Math.random()*10)];
 
-
-return _str;
-}
-
-</script>
 
 <button type="button" onclick="alert(randomText())">点我!</button>
 
