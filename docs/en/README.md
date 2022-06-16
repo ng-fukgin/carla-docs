@@ -4,9 +4,9 @@
 
 <button onclick="window.location.href = '/carla-docs/#/README'">别骂了别骂了</button>
 <button onclick="window.location.href = '/carla-docs/#/README'">这就切回去</button>
-<button onclick="window.location.href = '/carla-docs/#/README'">圣人也有犯错的时候，名人也有失德的地方，我也有耍脾气的时候，有错能改，善莫大焉，所以给我一个改过自新的机会吧！</button>
-<button onclick="window.location.href = '/carla-docs/#/README'">我是一只小呆瓜，呆头呆脑呆尾巴，无缘无故惹到你，我心真的很愧疚，夜不能寐心惆怅，一条短信歉意表，千错万错我的错，请君莫要再生气，开开心心把家还！</button>
-<button onclick="window.location.href = '/carla-docs/#/README'">说出的话，泼出的水，收不回。做错的事，不应该，挺后悔。道歉的话，心里有，说不出口。我真的不是存心故意，你可千万别生气。请接受我深深的歉意：I am sorry。</button>
+<button type="button" onclick="alert('如果道歉有用，那么要警察干嘛!')">圣人也有犯错的时候，名人也有失德的地方，我也有耍脾气的时候，有错能改，善莫大焉，所以给我一个改过自新的机会吧！</button>
+<button type="button" onclick="alert('做梦!')">圣人也有犯错的时候，名人也有失德的地方，我也有耍脾气的时候，有错能改，善莫大焉，所以给我一个改过自新的机会吧！</button>
+<button type="button" onclick="alert('泥奏凯!')">说出的话，泼出的水，收不回。做错的事，不应该，挺后悔。道歉的话，心里有，说不出口。我真的不是存心故意，你可千万别生气。请接受我深深的歉意：I am sorry。</button>
 <button onclick="window.location.href = '/carla-docs/#/README'">惹你生气，让你烦忧；我心内疚，黯然神伤；无心之过，企望原谅；发条信息，诚表歉意；愿你大肚，一笑而过；祝你幸福，事事开怀！</button>
 <button onclick="window.location.href = '/carla-docs/#/README'">狂风吹不掉我的内疚，暴雨浇不灭我的歉意，雷电击不破我的惭愧。可见，一不小心伤到你，我也很痛苦！你就原谅我吧，朋友！</button>
 <button onclick="window.location.href = '/carla-docs/#/README'">昨天晚上我做了一个梦，梦里上帝对我说：“这段时间你犯了一些错，如果当事人原谅了你，你将被救赎，他也将延寿十年，如果他没宽恕你，那我就让他永生不得安宁。”原不原谅我，你自己看着办吧。</button>
