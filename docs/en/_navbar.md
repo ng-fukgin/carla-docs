@@ -5,4 +5,5 @@
   * [简体中文](/README)
   * [En](/en/)
 * <button style="background-color: #FFC0CB;" onclick="window.location.href = rep(window.location.href)">切换源</button>
+* <button type="button" onclick="alert(window.location.href)">别骂了别骂了</button>
 
