@@ -4,4 +4,4 @@
 * 中英切换
   * [简体中文](/README)
   * [En](/en/)
-* <button type="button" onclick="alert(rel(document.domain))">gitee</button>
+* <button type="button" onclick="alert(rep(document.domain))">gitee</button>
