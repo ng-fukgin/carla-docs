@@ -4,4 +4,4 @@
 * 中英切换
   * [简体中文](/README)
   * [En](/en/)
-  * [document.domain](document.domain)
+  
