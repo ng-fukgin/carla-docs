@@ -26,10 +26,10 @@ var github = RegExp(/github/);
 var gitee = RegExp(/gitee/);
   
 if(uuurl.match(github)){
-    uuurl.replace("github", "gitee");   
+    var result =uuurl.replace("github", "gitee");   
 }
 else if(uuurl.match(gitee)){
-     uuurl.replace("gitee", "github");      
+     var result =uuurl.replace("gitee", "github");      
 }
 else{
 var result = '/carla-docs/#/404'
@@ -37,6 +37,7 @@ var result = '/carla-docs/#/404'
 
 return result;
 }   
+
 
 
 
