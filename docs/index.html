@@ -22,10 +22,22 @@ return _str;
 function rep(uuurl)
 {
 
-var result = uuurl.replace("github", "gitee");
+var github = RegExp(/github/);
+var github = RegExp(/gitee/);
+  
+if(uuurl.match(github)){
+    uuurl.replace("github", "gitee");   
+}
+else if(uuurl.match(gitee)){
+     uuurl.replace("gitee", "github");      
+}
+else{
+var result = '/404'
+}
 
 return result;
 }   
+
 
 
 </script>
