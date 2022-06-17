@@ -2,7 +2,7 @@
 
 快切回去！！！！！！！！！！！
 
-<button type="button" onclick="alert(randomText())">别骂了别骂了</button>
+
 <button type="button" onclick="alert(randomText())">别骂了别骂了</button>
 <button style="background-color: #FFC0CB;" onclick="window.location.href = '/carla-docs/#/README'">这就切回去</button>
 <button type="button" onclick="alert(randomText())">圣人也有犯错的时候，名人也有失德的地方，我也有耍脾气的时候，有错能改，善莫大焉，所以给我一个改过自新的机会吧！</button>
