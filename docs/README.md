@@ -13,3 +13,6 @@
 邮箱：ngfukgin@gmail.com :heartpulse:
 
 原创不易，请大家尽量访问原网站获取内容，感谢你的理解与支持 :heartpulse:
+
+
+__同时,我也在翻译[carla官方文档](https://carla.readthedocs.io/en/latest/)的内容,详情请[点击查看](https://carla-docs.readthedocs.io/zh_CN/latest/).如果你有想法，也可以加入我，跟我一起翻译！__
