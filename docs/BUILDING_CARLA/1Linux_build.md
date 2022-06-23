@@ -8,7 +8,7 @@ Linux系统下构建CARLA
 
 如果您遇到错误或困难，请在评论或者发帖求助。
 
-Part Two: 构建CARLA的准备条件
+Part One: 构建CARLA的准备条件
 ----------------------
 
 ##### 系统要求
@@ -151,7 +151,7 @@ Part Two: 构建CARLA
 
         export UE4_ROOT=~/UnrealEngine_4.26 
 
-**3.**保存文件并重置终端。
+**3.** 保存文件并重置终端。
 
 ### 构建 CARLA
 
